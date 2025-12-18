@@ -1,4 +1,3 @@
-#mtschem-tools
-##Standalone utilities for working with Minetest schematic (.mts) files.
+# mtschem-tools
 
-
+## Standalone utilities for working with Minetest schematic (.mts) files.
